@@ -274,6 +274,8 @@ POST /api/v1/wallets
 201 CREATED
 ```
 
+<img width="1917" height="841" alt="image" src="https://github.com/user-attachments/assets/afd93c08-54ac-470c-aa88-65fc67988f0e" />
+
 ---
 
 ## Get Wallet
@@ -282,6 +284,9 @@ POST /api/v1/wallets
 GET /api/v1/wallets/{fastagId}
 ```
 
+<img width="1917" height="572" alt="image" src="https://github.com/user-attachments/assets/3817bdcd-1969-46a8-a4cf-8dfce9fe1583" />
+
+
 ---
 
 ## Get All Wallets
@@ -289,6 +294,9 @@ GET /api/v1/wallets/{fastagId}
 ```
 GET /api/v1/wallets
 ```
+
+<img width="1882" height="775" alt="image" src="https://github.com/user-attachments/assets/7f5ecd26-28d1-46a8-bb77-e1d83f44fef1" />
+
 
 ---
 
@@ -307,6 +315,9 @@ PUT /api/v1/wallets/recharge
 }
 ```
 
+<img width="1917" height="852" alt="image" src="https://github.com/user-attachments/assets/275cc85c-93eb-44ec-a55c-d9adaa408279" />
+
+
 ---
 
 ## Deduct Wallet
@@ -324,6 +335,9 @@ PUT /api/v1/wallets/deduct
 }
 ```
 
+<img width="1917" height="841" alt="image" src="https://github.com/user-attachments/assets/5ed1a892-7ce0-4646-a909-5102fa8a7a2f" />
+
+
 ---
 
 ## Delete Wallet
@@ -331,6 +345,9 @@ PUT /api/v1/wallets/deduct
 ```
 DELETE /api/v1/wallets/{id}
 ```
+
+<img width="1917" height="487" alt="image" src="https://github.com/user-attachments/assets/bd42d6c9-e03d-4525-a420-1d5c52b147d5" />
+
 
 ---
 
