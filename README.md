@@ -123,13 +123,13 @@ smart-toll-plaza-automation
 
 # 🧩 Microservices
 
-| Service | Description |
-|----------|-------------|
-| 🚗 Vehicle Service | Maintains vehicle and FASTag information |
-| 💳 Wallet Service | Manages FASTag wallet balance and recharge |
-| 🛣️ Journey Service | Stores vehicle journey history |
-| 🚧 Toll Service | Coordinates toll payment workflow |
-| 🌐 API Gateway | Central entry point for all APIs |
+| Service | Description | README.md |
+|----------|-------------|----------|
+| 🚗 Vehicle Service | Maintains vehicle and FASTag information |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/VehicleAPI/README.md)|
+| 💳 Wallet Service | Manages FASTag wallet balance and recharge |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/WalletAPI/README.md)|
+| 🛣️ Journey Service | Stores vehicle journey history |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/JourneyAPI/README.md)|
+| 🚧 Toll Service | Coordinates toll payment workflow |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/TollAPI/README.md)|
+| 🌐 API Gateway | Central entry point for all APIs |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/APIGateway/README.md)|
 
 ---
 
