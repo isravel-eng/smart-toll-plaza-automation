@@ -210,6 +210,11 @@ POST /api/v1/vehicles
 201 CREATED
 ```
 
+#### Example Output
+
+<img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/cdcd331a-b6fa-4b0c-9a5e-8969feefe29d" />
+
+
 ---
 
 ## Get Vehicle
@@ -217,6 +222,8 @@ POST /api/v1/vehicles
 ```
 GET /api/v1/vehicles/{vehicleNumber}
 ```
+
+<img width="1917" height="873" alt="image" src="https://github.com/user-attachments/assets/2823893b-155f-4038-813e-efedc24fba0c" />
 
 ---
 
@@ -226,6 +233,8 @@ GET /api/v1/vehicles/{vehicleNumber}
 GET /api/v1/vehicles
 ```
 
+<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/69ace1c4-af9e-4d5d-95dc-def13c92fac5" />
+
 ---
 
 ## Update Vehicle
@@ -234,6 +243,9 @@ GET /api/v1/vehicles
 PUT /api/v1/vehicles/{id}
 ```
 
+<img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/3b18404b-942e-49ef-9501-367826131283" />
+
+
 ---
 
 ## Delete Vehicle
@@ -241,6 +253,9 @@ PUT /api/v1/vehicles/{id}
 ```
 DELETE /api/v1/vehicles/{id}
 ```
+
+<img width="1917" height="602" alt="image" src="https://github.com/user-attachments/assets/afef7c41-4539-48a3-9381-57a135e3cf14" />
+
 
 ---
 
