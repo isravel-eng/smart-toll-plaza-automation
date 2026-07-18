@@ -207,6 +207,8 @@ POST /api/v1/toll/pay
 }
 ```
 
+<img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/eab39961-9f29-4e53-a741-39dc36baa39a" />
+
 ---
 
 # 🔍 Complete Processing Flow
