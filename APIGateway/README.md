@@ -299,13 +299,13 @@ http://localhost:8080/api/v1/journeys
 Instead of
 
 ```
-http://localhost:8084/api/v1/toll/pay
+http://localhost:8084/api/v1/tolls
 ```
 
 Use
 
 ```
-http://localhost:8080/api/v1/toll/pay
+http://localhost:8080/api/v1/tolls
 ```
 
 <img width="1911" height="815" alt="image" src="https://github.com/user-attachments/assets/46851162-e9e6-493b-a434-48f26c009ae1" />
