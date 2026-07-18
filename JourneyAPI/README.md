@@ -168,6 +168,9 @@ POST /api/v1/journeys
 201 CREATED
 ```
 
+<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/03d610db-d9da-49f6-8356-e7f6d9bf9392" />
+
+
 ---
 
 ## Get All Journeys
@@ -175,6 +178,8 @@ POST /api/v1/journeys
 ```
 GET /api/v1/journeys
 ```
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/131b3bd0-288c-440d-87b9-4b540bae2a87" />
 
 ---
 
@@ -184,15 +189,11 @@ GET /api/v1/journeys
 GET /api/v1/journeys/{vehicleNumber}
 ```
 
----
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6fdb3546-cacf-404d-a75f-dcb71e09fa70" />
 
-## Delete Journey
-
-```
-DELETE /api/v1/journeys/{id}
-```
 
 ---
+
 
 # 📌 Journey Lifecycle
 
