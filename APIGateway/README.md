@@ -163,6 +163,7 @@ Response
 Client
 ```
 
+
 ---
 
 ## Wallet Recharge
@@ -257,6 +258,9 @@ Use
 http://localhost:8080/api/v1/vehicles
 ```
 
+<img width="1917" height="736" alt="image" src="https://github.com/user-attachments/assets/f8332db2-3d24-454b-bfac-414e3b5fc026" />
+
+
 ---
 
 Instead of
@@ -270,6 +274,8 @@ Use
 ```
 http://localhost:8080/api/v1/wallets
 ```
+
+<img width="1917" height="597" alt="image" src="https://github.com/user-attachments/assets/447e5c21-28fe-4aff-9080-9cdd3e1bc0b4" />
 
 ---
 
@@ -285,6 +291,9 @@ Use
 http://localhost:8080/api/v1/journeys
 ```
 
+<img width="1917" height="1041" alt="image" src="https://github.com/user-attachments/assets/22bac05e-1c3e-4032-8bf3-df0892bf642e" />
+
+
 ---
 
 Instead of
@@ -298,6 +307,8 @@ Use
 ```
 http://localhost:8080/api/v1/toll/pay
 ```
+
+<img width="1911" height="815" alt="image" src="https://github.com/user-attachments/assets/46851162-e9e6-493b-a434-48f26c009ae1" />
 
 ---
 
