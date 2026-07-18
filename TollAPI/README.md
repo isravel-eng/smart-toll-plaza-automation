@@ -180,7 +180,7 @@ Vehicle         Update Balance   Return Success
 ## Pay Toll
 
 ```
-POST /api/v1/toll/pay
+POST /api/v1/tolls
 ```
 
 ### Request
